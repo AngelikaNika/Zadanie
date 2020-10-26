@@ -1,0 +1,27 @@
+<div class="card">
+    <div class="img-container">
+       
+        <img class="card-img-top" class="photo-preview" [src]="dance.image">
+
+    </div>
+    <div class="card-body">
+        <h5 class="card-title" class="dance-header">
+            {{ dance.title }}
+        </h5>
+        <div>
+            <span class="label">Kategorie: </span>
+            <span *ngFor="let category of dance.categories" class="badge badge-info">{{ category }}</span>
+        </div>
+        <div>
+            <span class="label">Cena (w zł): </span>
+            <span>{{ dance.price }} </span>
+        </div>
+        <div>
+            <span class="label">Data: </span>
+            <span>{{ dance.date | date :'dd.MM.yyyy' }}r.</span>
+        </div>
+    </div>
+    <div class="action-panel">
+        <a [routerLink]="['/dances/details', dance.id]" class="details-btn" class="btn btn-primary">Szczegóły</a>
+    </div>
+</div>

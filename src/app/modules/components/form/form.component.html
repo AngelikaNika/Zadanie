@@ -1,0 +1,62 @@
+<div class="container">
+    <form [formGroup]="addForm" (ngSubmit)="onSubmit()">
+
+        <div class="form-group">
+            <label class="col-form-label" for="inputDefault">Tytuł</label>
+            <input type="text" class="form-control" formControlName="title">
+        </div>
+
+        <div class="form-group">
+            <label class="col-form-label" for="inputDefault">Typ</label>
+            <input type="text" class="form-control" formControlName="type">
+        </div>
+
+        <div class="form-group">
+            <label class="col-form-label" for="inputDefault">Rank</label>
+            <input type="number" class="form-control" min="0" max="5" formControlName="rank">
+        </div>
+
+        <div class="form-group">
+            <label class="col-form-label" for="inputDefault">Cena</label>
+            <input type="number" class="form-control" min="0" formControlName="price">
+        </div>
+
+        <div class="form-group">
+            <label class="col-form-label" for="inputDefault">Adres</label>
+            <input type="text" class="form-control" formControlName="address">
+        </div>
+
+        <div class="form-group">
+                <label class="col-form-label" for="inputDefault">Telefon</label>
+                <input type="number" class="form-control" maxlength="9" formControlName="phone">
+            </div>
+
+        <div class="form-group">
+                <label for="exampleSelect2">Wybierz kategorie</label>
+                <select formControlName="categories" multiple class="form-control">
+                    <ng-container *ngFor="let category of categories">
+                        <option [value]="category">{{category}}</option>
+                    </ng-container>
+                </select>
+            </div>
+
+            <div class="form-group">
+                    <label class="col-form-label" for="inputDefault">Autor</label>
+                    <input type="text" class="form-control" formControlName="name">
+                </div>
+
+                <div class="form-group">
+                        <label class="col-form-label" for="inputDefault">Opis</label>
+                        <textarea class="form-control" id="exampleTextarea" rows="3" formControlName="photo"></textarea>
+                </div>
+
+                <div class="form-group">
+                                <label class="col-form-label" for="inputDefault">Foto (wstaw link do obrazka)</label>
+                                <input type="text" class="form-control" formControlName="photo">
+                        </div>
+
+        <button type="submit">Submit</button>
+    </form>
+</div>
+
+

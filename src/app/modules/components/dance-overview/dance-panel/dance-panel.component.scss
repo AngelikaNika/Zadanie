@@ -1,0 +1,40 @@
+:host {
+    .option-panel {
+        margin-bottom: 30px;
+    }
+    .btn-success {
+        color: #fff;
+        background-color: #28a745;
+        border-color: #28a745;
+        float: right;
+    }
+    .btn-info {
+        color: #fff;
+        background-color: rgb(243, 19, 19);
+        border-color: rgb(243, 19, 19);
+    }
+    .btn-click1 {
+        color: #fff;
+        background: linear-gradient(rgb(219, 9, 9), rgb(245, 140, 21));
+        border: linear-gradient(rgb(219, 9, 9), rgb(245, 140, 21));
+        margin-right: 4px;
+    }
+    .btn-click2 {
+        color: #fff;
+        background: linear-gradient(rgb(10, 238, 60), rgb(198, 248, 17));
+        border: linear-gradient(rgb(10, 238, 60), rgb(198, 248, 17));
+        margin-right: 4px;
+    }
+    .btn-click3 {
+        color: #fff;
+        background: linear-gradient(tomato, rgb(235, 157, 12));
+        border: linear-gradient(tomato, rgb(235, 157, 12));
+        margin-right: 4px;
+    }
+    .btn-click4 {
+        color: #fff;
+        background: linear-gradient(rgb(10, 82, 238), rgb(169, 5, 245));
+        border: linear-gradient(rgb(10, 82, 238), rgb(169, 5, 245));
+        margin-right: 4px;
+    }
+}

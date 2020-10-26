@@ -1,0 +1,27 @@
+<div class="app-header"><i class="fas"></i> Let's Dance!</div>
+
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+
+
+  <div class="collapse navbar-collapse" id="navbarColor01">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Let's Dance! <span class="sr-only">(current)</span></a>
+      </li>
+
+    </ul>
+    <form class="form-inline my-2 my-lg-0" *ngIf="!checkState()">
+      <input class="form-control mr-sm-2" type="text" placeholder="Login" [(ngModel)]="user.login" name="login">
+
+      <input class="form-control mr-sm-2" type="password" placeholder="Password" [(ngModel)]="user.password" name="password">
+      
+    </form>
+    <ng-container *ngIf="!checkState(); else template">
+      <button class="btn btn-secondary my-2 my-sm-0" (click)="onSubmit()" type="submit" >Login</button>
+    </ng-container>
+    <ng-template #template>
+        <button class="btn btn-secondary my-2 my-sm-0" (click)="onLogout()" type="submit" >Logout</button>
+    </ng-template>
+  </div>
+</nav>

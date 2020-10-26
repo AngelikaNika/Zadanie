@@ -1,0 +1,21 @@
+<div class="btn-group" class="option-panel">
+    <button
+        *ngFor="let cat of categories"
+        type="button"
+        class="btn"
+        [ngClass]="selectedFilter === cat ? 'btn-dark': 'btn-info' "
+        (click)="onFilterClick(cat)">
+        {{ cat }}
+    </button>
+    <button type="button" class="btn btn-success" (click)="onNewDanceClick()">Dodaj ogłoszenie</button> 
+    <button type="button" class="btn btn-success" routerLink="/dances/add" *ngIf="checkState()">Dodaj ogłoszenie</button>
+</div>
+<div class="btn-group" class="option-panel">
+
+    <button type="button" class="btn-click1" (click)="onDescPrice()">Sortuj po cenie malejąco</button> 
+    <button type="button" class="btn-click2" (click)="onAscPrice()">Sortuj po cenie rosnąco</button> 
+    <button type="button" class="btn-click3" (click)="onDescDate()">Sortuj po dacie malejąco</button> 
+    <button type="button" class="btn-click4" (click)="onAscDate()">Sortuj po dacie rosnąco</button> 
+
+</div>
+

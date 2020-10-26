@@ -1,0 +1,39 @@
+:host {
+    .container {
+        padding-top: 100px;
+        padding-bottom: 200px;
+       
+    }
+    .label {
+        font-weight: bold;
+    }
+    .details-img-preview {
+        height: 400px;
+        width: auto;
+    }
+    .header-title {
+        height: 50px;
+        margin-top: 20px;
+    }
+    .option-panel {
+        margin-top: 30px;
+        text-align: center;
+        .back-btn {
+            width: 200px;
+            
+        }
+    }
+    .card-body > div {
+        margin-bottom: 10px;
+      
+    }
+    .back-btn {
+        color: white;
+    }
+    .btn-info {
+        color: #fff;
+        background-color: rgb(6, 180, 6);
+        border-color: rgb(6, 180, 6);
+    }
+  
+}

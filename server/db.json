@@ -1,0 +1,993 @@
+{
+  "dancesdata": [
+    {
+      "id": 1,
+      "title": "Pole dance",
+      "type": "Sprzedam",
+      "date": "December 02, 2019 18:00:00",
+      "price": 100,
+      "image": "../../assets/images/Poledance.PNG",
+      "description": "Lepsze niż siłownia! Zajęcia: poniedziałki, godzina: 18:00.",
+      "categories": [
+        "Taniec"
+      ],
+      "name": "Magda",
+      "phone": "123123123",
+      "address": "u. Zielona 2, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "aktywny"
+    },
+    {
+      "id": 2,
+      "title": "Rumba",
+      "type": "Sprzedam",
+      "date": "2019-01-05",
+      "price": 90,
+      "image": "../../assets/images/Rumba.PNG",
+      "description": "Afrokubański styl tańca! Polecany wszystkim miłośnikom salsy. Zajęcia: wtorki, godzina: 18:00.",
+      "categories": [
+        "Taniec"
+      ],
+      "name": "Magda",
+      "phone": "123321123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "4",
+      "status": "aktywny"
+    },
+    {
+      "id": 3,
+      "title": "Salsa cubana",
+      "type": "Sprzedam",
+      "date": "2019-02-02 20:00",
+      "price": 100,
+      "image": "../../assets/images/SalsaCubana.PNG",
+      "description": "Salsa w parach! Kubańskie rytmy, energia w tańcu, podczas zajęć można poczuć się jak na wakacjach! Zajęcia: środy, godzina: 20:00.",
+      "categories": [
+        "Taniec"
+      ],
+      "name": "Magda",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "aktywny"
+    },
+    {
+      "id": 4,
+      "title": "Salsa LA",
+      "type": "Sprzedam",
+      "date": "2019-03-03 17:00",
+      "price": 100,
+      "image": "../../assets/images/Salsa.PNG",
+      "description": "Salsa w parach! Eleganckie wydanie kubańskiej salsy. Zajęcia: niedziele, godzina: 17:00.",
+      "categories": [
+        "Taniec"
+      ],
+      "name": "Magda",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "aktywny"
+    },
+    {
+      "id": 5,
+      "title": "Bachata",
+      "type": "Sprzedam",
+      "date": "2019-04-04 17:00",
+      "price": 100,
+      "image": "../../assets/images/Bachata.PNG",
+      "description": "Bachata w parach! Taniec prosto z Dominikany! Zajęcia: czwartki, godzina: 17:00.",
+      "categories": [
+        "Taniec"
+      ],
+      "name": "Magda",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "aktywny"
+    },
+    {
+      "id": 6,
+      "title": "Kizomba",
+      "type": "Sprzedam",
+      "date": "2019-05-05 17:00",
+      "price": 100,
+      "image": "../../assets/images/Kizomba.PNG",
+      "description": "Taniec w parach! Angolska wersja tanga. Przyjdź i spróbuj. Zajęcia: poniedziałki, godzina: 17:00.",
+      "categories": [
+        "Taniec"
+      ],
+      "name": "Magda",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "aktywny"
+    },
+    {
+      "id": 7,
+      "title": "Tango argentyńskie",
+      "type": "Sprzedam",
+      "date": "2019-06-06 19:00",
+      "price": 150,
+      "image": "../../assets/images/Tango.PNG",
+      "description": "Taniec w parach! Dla miłośników tańców prawie-klasycznych! Zajęcia: soboty, godzina: 19:00",
+      "categories": [
+        "Taniec"
+      ],
+      "name": "Magda",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "aktywny"
+    },
+    {
+      "id": 8,
+      "title": "Cha-cha",
+      "type": "Sprzedam",
+      "date": "2019-07-07 19:00",
+      "price": 90,
+      "image": "../../assets/images/Chacha.PNG",
+      "description": "Taniec w parach! Przyjdź na zajęcia i sprawdź czy Twoje serduszko puka w rytmie cha-cha-cha. Zajęcia: wtorki, godzina: 19:00.",
+      "categories": [
+        "Taniec"
+      ],
+      "name": "Magda",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "aktywny"
+    },
+    {
+      "id": 9,
+      "title": "Walc angielski",
+      "type": "Sprzedam",
+      "date": "2019-08-08 18:00",
+      "price": 100,
+      "image": "../../assets/images/WalcA.PNG",
+      "description": "Taniec w parach! Dla miłośników elegancji. Zajęcia: środy, godzina: 18:00.",
+      "categories": [
+        "Taniec"
+      ],
+      "name": "Magda",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "aktywny"
+    },
+    {
+      "id": 10,
+      "title": "Walc wiedeński",
+      "type": "Sprzedam",
+      "date": "2019-09-09 18:00",
+      "price": 100,
+      "image": "../../assets/images/WalcW.PNG",
+      "description": "Taniec w parach! Poznaj walca wiedeńskiego i zatańcz jak na salonach. Zajęcia: czwartki, godzina: 18:00.",
+      "categories": [
+        "Taniec"
+      ],
+      "name": "Magda",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "aktywny"
+    },
+    {
+      "id": 11,
+      "title": "Rock'n'roll",
+      "type": "Sprzedam",
+      "date": "2019-10-10 16:00",
+      "price": 90,
+      "image": "../../assets/images/Rocknroll.PNG",
+      "description": "Taniec w parach! Taniec dla wytrwałych i pełnych energii! Zajęcia: piątki, godzina: 16:00.",
+      "categories": [
+        "Taniec"
+      ],
+      "name": "Magda",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "aktywny"
+    },
+    {
+      "id": 84,
+      "title": "Rock'n'roll",
+      "type": "Sprzedam",
+      "date": "2019-10-10 16:00",
+      "price": 90,
+      "image": "../../assets/images/Rocknroll.PNG",
+      "description": "Taniec w parach! Taniec dla wytrwałych i pełnych energii! Zajęcia: piątki, godzina: 16:00.",
+      "categories": [
+        "Taniec"
+      ],
+      "name": "Magda",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "nieaktywny"
+    },
+    {
+      "id": 85,
+      "title": "Rock'n'roll",
+      "type": "Sprzedam",
+      "date": "2019-10-10 16:00",
+      "price": 90,
+      "image": "../../assets/images/Rocknroll.PNG",
+      "description": "Taniec w parach! Taniec dla wytrwałych i pełnych energii! Zajęcia: piątki, godzina: 16:00.",
+      "categories": [
+        "Taniec"
+      ],
+      "name": "Magda",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "sprzedany"
+    },
+    {
+      "id": 12,
+      "title": "Sukienka do tanga",
+      "type": "Sprzedam",
+      "date": "2019-11-11 18:00",
+      "price": 150,
+      "image": "../../assets/images/SukienkaTango.PNG",
+      "description": "Super sukienka! Kolor czerwony. Rozmiar M. Polecana do tanga, zwłaszcza argentyńskiego.",
+      "categories": [
+        "Akcesoria"
+      ],
+      "name": "Julia",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "4",
+      "status": "aktywny"
+    },
+    {
+      "id": 30,
+      "title": "Sukienka do salsy",
+      "type": "Sprzedam",
+      "date": "2019-12-12 18:00",
+      "price": 200,
+      "image": "../../assets/images/SukienkaSalsa.PNG",
+      "description": "Super sukienka! Kolor czerwony. Rozmiar S.",
+      "categories": [
+        "Akcesoria"
+      ],
+      "name": "Julia",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "aktywny"
+    },
+    {
+      "id": 40,
+      "title": "Sukienka do salsy",
+      "type": "Sprzedam",
+      "date": "2019-04-25 18:00",
+      "price": 250,
+      "image": "../../assets/images/SukienkaSalsa2.PNG",
+      "description": "Super sukienka! Kolor niebieski. Rozmiar S.",
+      "categories": [
+        "Akcesoria"
+      ],
+      "name": "Julia",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "aktywny"
+    },
+    {
+      "id": 83,
+      "title": "Sukienka do salsy",
+      "type": "Sprzedam",
+      "date": "2019-04-25 18:00",
+      "price": 250,
+      "image": "../../assets/images/SukienkaSalsa2.PNG",
+      "description": "Super sukienka! Kolor niebieski. Rozmiar S.",
+      "categories": [
+        "Akcesoria"
+      ],
+      "name": "Julia",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "sprzedany"
+    },
+    {
+      "id": 41,
+      "title": "Sukienka do walca",
+      "type": "Sprzedam",
+      "date": "2019-12-16 18:00",
+      "price": 190,
+      "image": "../../assets/images/SukienkaWalc.PNG",
+      "description": "Super sukienka! Kolor niebieski. Rozmiar M.",
+      "categories": [
+        "Akcesoria"
+      ],
+      "name": "Julia",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "4",
+      "status": "aktywny"
+    },
+    {
+      "id": 42,
+      "title": "Sukienka do walca",
+      "type": "Sprzedam",
+      "date": "2019-08-22 18:00",
+      "price": 170,
+      "image": "../../assets/images/SukienkaWalc2.PNG",
+      "description": "Super sukienka! Kolor zielono-czarny. Rozmiar L.",
+      "categories": [
+        "Akcesoria"
+      ],
+      "name": "Julia",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "4",
+      "status": "aktywny"
+    },
+    {
+      "id": 81,
+      "title": "Sukienka do walca",
+      "type": "Sprzedam",
+      "date": "2019-08-22 18:00",
+      "price": 170,
+      "image": "../../assets/images/SukienkaWalc2.PNG",
+      "description": "Super sukienka! Kolor zielono-czarny. Rozmiar L.",
+      "categories": [
+        "Akcesoria"
+      ],
+      "name": "Julia",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "4",
+      "status": "nieaktywny"
+    },
+    {
+      "id": 82,
+      "title": "Sukienka do walca",
+      "type": "Sprzedam",
+      "date": "2019-08-22 18:00",
+      "price": 170,
+      "image": "../../assets/images/SukienkaWalc2.PNG",
+      "description": "Super sukienka! Kolor zielono-czarny. Rozmiar L.",
+      "categories": [
+        "Akcesoria"
+      ],
+      "name": "Julia",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "4",
+      "status": "sprzedany"
+    },
+    {
+      "id": 13,
+      "title": "Buty do tańca",
+      "type": "Sprzedam",
+      "date": "2019-11-13 18:00",
+      "price": 250,
+      "image": "../../assets/images/Buty1.PNG",
+      "description": "Wygodne buty taneczne do tańców latino! Kolor brązowo-biały. Rozmiar 40.",
+      "categories": [
+        "Akcesoria"
+      ],
+      "name": "Ewelina",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "3",
+      "status": "aktywny"
+    },
+    {
+      "id": 31,
+      "title": "Buty do tańca",
+      "type": "Sprzedam",
+      "date": "2019-03-04 18:00",
+      "price": 350,
+      "image": "../../assets/images/Buty2.PNG",
+      "description": "Buty taneczne na szpilce. Kolor brązowy. Wiązane u góry. Rozmiar 39. Wysokość szpilki 10 cm.",
+      "categories": [
+        "Akcesoria"
+      ],
+      "name": "Ewelina",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "aktywny"
+    },
+    {
+      "id": 32,
+      "title": "Buty do tańca",
+      "type": "Sprzedam",
+      "date": "2019-07-29 18:00",
+      "price": 240,
+      "image": "../../assets/images/Buty3.PNG",
+      "description": "Buty taneczne wiązane u góry. Kolor czarny. Rozmiar 38. Wysokość szpilki 5 cm.",
+      "categories": [
+        "Akcesoria"
+      ],
+      "name": "Ewelina",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "aktywny"
+    },
+    {
+      "id": 59,
+      "title": "Buty do tańca",
+      "type": "Sprzedam",
+      "date": "2019-07-29 18:00",
+      "price": 240,
+      "image": "../../assets/images/Buty3.PNG",
+      "description": "Buty taneczne wiązane u góry. Kolor czarny. Rozmiar 38. Wysokość szpilki 5 cm.",
+      "categories": [
+        "Akcesoria"
+      ],
+      "name": "Ewelina",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "sprzedany"
+    },
+    {
+      "id": 33,
+      "title": "Buty do tańca",
+      "type": "Sprzedam",
+      "date": "2019-11-12 18:00",
+      "price": 260,
+      "image": "../../assets/images/Buty4.PNG",
+      "description": "Buty taneczne na szpilce. Kolor czarny. Rozmiar 38. Wysokość szpilki 12 cm.",
+      "categories": [
+        "Akcesoria"
+      ],
+      "name": "Ewelina",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "aktywny"
+    },
+    {
+      "id": 34,
+      "title": "Buty do tańca",
+      "type": "Sprzedam",
+      "date": "2019-11-28 18:00",
+      "price": 310,
+      "image": "../../assets/images/Buty5.PNG",
+      "description": "Buty taneczne na szpilce. Kolor czarno-czerwony. Rozmiar 39. Wysokość szpilki 10 cm.",
+      "categories": [
+        "Akcesoria"
+      ],
+      "name": "Ewelina",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "aktywny"
+    },
+    {
+      "id": 56,
+      "title": "Buty do tańca",
+      "type": "Sprzedam",
+      "date": "2019-11-28 18:00",
+      "price": 310,
+      "image": "../../assets/images/Buty5.PNG",
+      "description": "Buty taneczne na szpilce. Kolor czarno-czerwony. Rozmiar 39. Wysokość szpilki 10 cm.",
+      "categories": [
+        "Akcesoria"
+      ],
+      "name": "Ewelina",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "sprzedany"
+    },
+    {
+      "id": 57,
+      "title": "Buty do tańca",
+      "type": "Sprzedam",
+      "date": "2019-11-28 18:00",
+      "price": 310,
+      "image": "../../assets/images/Buty5.PNG",
+      "description": "Buty taneczne na szpilce. Kolor czarno-czerwony. Rozmiar 39. Wysokość szpilki 10 cm.",
+      "categories": [
+        "Akcesoria"
+      ],
+      "name": "Ewelina",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "nieaktywny"
+    },
+    {
+      "id": 35,
+      "title": "Buty do tańca",
+      "type": "Sprzedam",
+      "date": "2019-06-15 18:00",
+      "price": 400,
+      "image": "../../assets/images/Buty6.PNG",
+      "description": "Buty taneczne na szpilce. Kolor czarno-fioletowy. Rozmiar 39. Wysokość szpilki 15 cm. Buty na platformie.",
+      "categories": [
+        "Akcesoria"
+      ],
+      "name": "Ewelina",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "aktywny"
+    },
+    {
+      "id": 36,
+      "title": "Buty do tańca",
+      "type": "Sprzedam",
+      "date": "2019-02-14 18:00",
+      "price": 190,
+      "image": "../../assets/images/Buty7.PNG",
+      "description": "Buty taneczne na szpilce. Kolor fioletowy. Rozmiar 37. Wysokość szpilki 7 cm.",
+      "categories": [
+        "Akcesoria"
+      ],
+      "name": "Ewelina",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "aktywny"
+    },
+    {
+      "id": 55,
+      "title": "Buty do tańca",
+      "type": "Sprzedam",
+      "date": "2019-02-14 18:00",
+      "price": 190,
+      "image": "../../assets/images/Buty7.PNG",
+      "description": "Buty taneczne na szpilce. Kolor fioletowy. Rozmiar 37. Wysokość szpilki 7 cm.",
+      "categories": [
+        "Akcesoria"
+      ],
+      "name": "Ewelina",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "sprzedany"
+    },
+    {
+      "id": 37,
+      "title": "Buty do tańca",
+      "type": "Sprzedam",
+      "date": "2019-12-29 18:00",
+      "price": 230,
+      "image": "../../assets/images/Buty8.PNG",
+      "description": "Buty taneczne. Kolor czarny. Rozmiar 39.",
+      "categories": [
+        "Akcesoria"
+      ],
+      "name": "Ewelina",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "aktywny"
+    },
+    {
+      "id": 54,
+      "title": "Buty do tańca",
+      "type": "Sprzedam",
+      "date": "2019-12-29 18:00",
+      "price": 230,
+      "image": "../../assets/images/Buty8.PNG",
+      "description": "Buty taneczne. Kolor czarny. Rozmiar 39.",
+      "categories": [
+        "Akcesoria"
+      ],
+      "name": "Ewelina",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "sprzedany"
+    },
+    {
+      "id": 38,
+      "title": "Buty do tańca",
+      "type": "Sprzedam",
+      "date": "2019-09-14 18:00",
+      "price": 290,
+      "image": "../../assets/images/Buty9.PNG",
+      "description": "Buty taneczne na szpilce. Kolor czarny. Rozmiar 39. Wysokość szpilki 9 cm.",
+      "categories": [
+        "Akcesoria"
+      ],
+      "name": "Ewelina",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "aktywny"
+    },
+    {
+      "id": 52,
+      "title": "Buty do tańca",
+      "type": "Sprzedam",
+      "date": "2019-09-14 18:00",
+      "price": 290,
+      "image": "../../assets/images/Buty9.PNG",
+      "description": "Buty taneczne na szpilce. Kolor czarny. Rozmiar 38. Wysokość szpilki 9 cm.",
+      "categories": [
+        "Akcesoria"
+      ],
+      "name": "Ewelina",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "nieaktywny"
+    },
+    {
+      "id": 53,
+      "title": "Buty do tańca",
+      "type": "Sprzedam",
+      "date": "2019-09-14 18:00",
+      "price": 290,
+      "image": "../../assets/images/Buty9.PNG",
+      "description": "Buty taneczne na szpilce. Kolor czarny. Rozmiar 39. Wysokość szpilki 9 cm.",
+      "categories": [
+        "Akcesoria"
+      ],
+      "name": "Ewelina",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "sprzedany"
+    },
+    {
+      "id": 14,
+      "title": "Koszulka do ćwiczeń",
+      "type": "Sprzedam",
+      "date": "2019-06-10 18:00",
+      "price": 80,
+      "image": "../../assets/images/PoledanceShirt.PNG",
+      "description": "Super wygodna koszulka do pole dance!",
+      "categories": [
+        "Akcesoria"
+      ],
+      "name": "Matylda",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "aktywny"
+    },
+    {
+      "id": 90,
+      "title": "Koszulka do ćwiczeń",
+      "type": "Sprzedam",
+      "date": "2019-06-10 18:00",
+      "price": 80,
+      "image": "../../assets/images/PoledanceShirt.PNG",
+      "description": "Super wygodna koszulka do pole dance!",
+      "categories": [
+        "Akcesoria"
+      ],
+      "name": "Matylda",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "sprzedany"
+    },
+    {
+      "id": 15,
+      "title": "Komplet do ćwiczeń",
+      "type": "Sprzedam",
+      "date": "2019-01-18 18:00",
+      "price": 230,
+      "image": "../../assets/images/PoledanceShirt2.PNG",
+      "description": "Super komplet do pole dance!",
+      "categories": [
+        "Akcesoria"
+      ],
+      "name": "Matylda",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "aktywny"
+    },
+    {
+      "id": 51,
+      "title": "Komplet do ćwiczeń",
+      "type": "Sprzedam",
+      "date": "2019-01-18 18:00",
+      "price": 235,
+      "image": "../../assets/images/PoledanceShirt2.PNG",
+      "description": "Super komplet do pole dance! Rozmiar 38.",
+      "categories": [
+        "Akcesoria"
+      ],
+      "name": "Matylda",
+      "phone": "123123123",
+      "address": "ul. Zielona 2, 51-628 Wroclaw",
+      "rank": "4",
+      "status": "nieaktywny"
+    },
+    {
+      "id": 16,
+      "title": "Salsoteka w Czarnym Kocie",
+      "type": "Sprzedam",
+      "date": "2019-06-12 21:30",
+      "price": 0,
+      "image": "../../assets/images/Salsa2.PNG",
+      "description": "Środowa noc w rytmie salsy! Zapraszamy! Start imprezy od 21.30, w każdą środę w centrum Wrocławia.",
+      "categories": [
+        "Imprezy"
+      ],
+      "name": "Mateusz",
+      "phone": "123123123",
+      "address": "ul. Ruska 38, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "aktywny"
+    },
+    {
+      "id": 91,
+      "title": "Salsoteka w Czarnym Kocie",
+      "type": "Sprzedam",
+      "date": "2019-07-12 21:30",
+      "price": 0,
+      "image": "../../assets/images/Salsa2.PNG",
+      "description": "Środowa noc w rytmie salsy! Zapraszamy! Start imprezy od 21.30, w każdą środę w centrum Wrocławia.",
+      "categories": [
+        "Imprezy"
+      ],
+      "name": "Mateusz",
+      "phone": "123123123",
+      "address": "ul. Ruska 38, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "sprzedany"
+    },
+    {
+      "id": 17,
+      "title": "Sensual party: bachata w Lewitacji",
+      "type": "Sprzedam",
+      "date": "2019-04-08 21:30",
+      "price": 5,
+      "image": "../../assets/images/BachataSensual.PNG",
+      "description": "Wtorkowa noc w rytmach latino. Od 21.30! Klub: Lewitacja. Wstęp: 5 zł.",
+      "categories": [
+        "Imprezy"
+      ],
+      "name": "Mateusz",
+      "phone": "123123123",
+      "address": "ul. Świętego Mikołaja 3, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "aktywny"
+    },
+    {
+      "id": 92,
+      "title": "Sensual party: bachata w Lewitacji",
+      "type": "Sprzedam",
+      "date": "2019-04-08 21:30",
+      "price": 5,
+      "image": "../../assets/images/BachataSensual.PNG",
+      "description": "Wtorkowa noc w rytmach latino. Od 21.30! Klub: Lewitacja. Wstęp: 5 zł.",
+      "categories": [
+        "Imprezy"
+      ],
+      "name": "Mateusz",
+      "phone": "123123123",
+      "address": "ul. Świętego Mikołaja 3, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "nieaktywny"
+    },
+    {
+      "id": 18,
+      "title": "Sensual party: kizomba w Szklanej Ćmie",
+      "type": "Sprzedam",
+      "date": "2019-11-22 21:30",
+      "price": 0,
+      "image": "../../assets/images/KizombaSensual.PNG",
+      "description": "Środowa noc w rytmach latino! Start godzina 21.30. Klub: Szklana Ćma.",
+      "categories": [
+        "Imprezy"
+      ],
+      "name": "Sławomir",
+      "phone": "123123123",
+      "address": "ul. Ofiar Oświęcimskich 65, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "aktywny"
+    },
+    {
+      "id": 93,
+      "title": "Sensual party: kizomba w Szklanej Ćmie",
+      "type": "Sprzedam",
+      "date": "2019-11-23 21:30",
+      "price": 0,
+      "image": "../../assets/images/KizombaSensual.PNG",
+      "description": "Środowa noc w rytmach latino! Start godzina 21.30. Klub: Szklana Ćma.",
+      "categories": [
+        "Imprezy"
+      ],
+      "name": "Sławomir",
+      "phone": "123123123",
+      "address": "ul. Ofiar Oświęcimskich 65, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "nieaktywny"
+    },
+    {
+      "id": 94,
+      "title": "Sensual party: kizomba w Szklanej Ćmie",
+      "type": "Sprzedam",
+      "date": "2019-11-22 21:30",
+      "price": 0,
+      "image": "../../assets/images/KizombaSensual.PNG",
+      "description": "Środowa noc w rytmach latino! Start godzina 21.30. Klub: Szklana Ćma.",
+      "categories": [
+        "Imprezy"
+      ],
+      "name": "Sławomir",
+      "phone": "123123123",
+      "address": "ul. Ofiar Oświęcimskich 65, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "sprzedany"
+    },
+    {
+      "id": 19,
+      "title": "Salsoteka w Antidotum",
+      "type": "Sprzedam",
+      "date": "2019-09-30 21:30",
+      "price": 0,
+      "image": "../../assets/images/Salsa2.PNG",
+      "description": "Zacznij dobrze weekend! Przyjdź w piątekna salsotekę do Antidotum. Start imprezy: godzina 21.30. Wstęp do godziny 22: free. ",
+      "categories": [
+        "Imprezy"
+      ],
+      "name": "Sławomir",
+      "phone": "123123123",
+      "address": "ul. Kiełbaśnicza 2, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "aktywny"
+    },
+    {
+      "id": 20,
+      "title": "Milonga w Starym Klasztorze",
+      "type": "Sprzedam",
+      "date": "2019-02-02 21:00",
+      "price": 10,
+      "image": "../../assets/images/Milonga.PNG",
+      "description": "Czwartek to już weekend! Daj się porwać na parkiet! W każdy czwartek o 21.00  na parkiecie w Starym Klasztorze spotykają się miłośnicy milong, przyjdź i Ty!",
+      "categories": [
+        "Imprezy"
+      ],
+      "name": "Hubert",
+      "phone": "123123123",
+      "address": "ul. Jana Ewangelisty Purkyniego 1, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "aktywny"
+    },
+    {
+      "id": 98,
+      "title": "Milonga w Starym Klasztorze",
+      "type": "Sprzedam",
+      "date": "2019-03-02 21:00",
+      "price": 10,
+      "image": "../../assets/images/Milonga.PNG",
+      "description": "Czwartek to już weekend! Daj się porwać na parkiet! W każdy czwartek o 21.00  na parkiecie w Starym Klasztorze spotykają się miłośnicy milong, przyjdź i Ty!",
+      "categories": [
+        "Imprezy"
+      ],
+      "name": "Hubert",
+      "phone": "123123123",
+      "address": "ul. Jana Ewangelisty Purkyniego 1, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "nieaktywny"
+    },
+    {
+      "id": 99,
+      "title": "Milonga w Starym Klasztorze",
+      "type": "Sprzedam",
+      "date": "2019-02-03 21:00",
+      "price": 10,
+      "image": "../../assets/images/Milonga.PNG",
+      "description": "Czwartek to już weekend! Daj się porwać na parkiet! W każdy czwartek o 21.00  na parkiecie w Starym Klasztorze spotykają się miłośnicy milong, przyjdź i Ty!",
+      "categories": [
+        "Imprezy"
+      ],
+      "name": "Hubert",
+      "phone": "123123123",
+      "address": "ul. Jana Ewangelisty Purkyniego 1, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "sprzedany"
+    },
+    {
+      "id": 21,
+      "title": "Latino-Party w Casa de la Musica",
+      "type": "Sprzedam",
+      "date": "2019-03-03 18:00",
+      "price": 10,
+      "image": "../../assets/images/Salsa11.PNG",
+      "description": "Daj się ponieść latynoskim rytmom! Salsa, bachata, rumba i inne!",
+      "categories": [
+        "Imprezy"
+      ],
+      "name": "Magda",
+      "phone": "123123123",
+      "address": "Rynek 15, 51-628 Wroclaw",
+      "rank": "5",
+      "status": "aktywny"
+    },
+    {
+      "title": "Cos",
+      "price": 0,
+      "image": "",
+      "name": "mmmm",
+      "phone": "",
+      "address": "",
+      "rank": 0,
+      "type": "sss",
+      "description": "",
+      "categories": [],
+      "date": "2018-12-12T11:00:42.653Z",
+      "status": "aktywny",
+      "id": 100
+    },
+    {
+      "title": "ccccccccccccccccccccccccccc",
+      "price": 0,
+      "image": "",
+      "name": "",
+      "phone": "",
+      "address": "",
+      "rank": 0,
+      "type": "",
+      "description": "",
+      "categories": [],
+      "date": "2018-12-12T11:02:01.136Z",
+      "status": "aktywny",
+      "id": 101
+    }
+  ],
+  "usersdata": [
+    {
+      "id": 101,
+      "name": "User",
+      "surname": "User",
+      "login": "user",
+      "password": "user"
+    },
+    {
+      "id": 102,
+      "name": "Magda",
+      "surname": "M",
+      "login": "magda",
+      "password": "magda"
+    },
+    {
+      "id": 103,
+      "name": "Ewelina",
+      "surname": "E",
+      "login": "ewelina",
+      "password": "ewelina"
+    },
+    {
+      "id": 104,
+      "name": "Julia",
+      "surname": "J",
+      "login": "julia",
+      "password": "julia"
+    },
+    {
+      "id": 105,
+      "name": "Matylda",
+      "surname": "M",
+      "login": "matylda",
+      "password": "matylda"
+    },
+    {
+      "id": 106,
+      "name": "Mateusz",
+      "surname": "M",
+      "login": "mateusz",
+      "password": "mateusz"
+    },
+    {
+      "id": 107,
+      "name": "Sławomir",
+      "surname": "S",
+      "login": "slawomir",
+      "password": "slawomir"
+    },
+    {
+      "id": 108,
+      "name": "Hubert",
+      "surname": "H",
+      "login": "hubert",
+      "password": "hubert"
+    }
+  ]
+}
